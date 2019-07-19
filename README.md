@@ -10,3 +10,6 @@
 resulted in a dataset of 390 (13 × 30) min.
 - so according to the above data, i divided 1169999 datapoints by 390 minutes which gives 0.02 seconds. so this is the calculated time which we have used in featurization.
 - i performed eda, then featurization and the modelling as shown in the ipynb.
+
+## For Details on the dataset and info please refer : 
+ - Shoaib, Muhammad, Stephan Bosch, Ozlem Durmaz Incel, Hans Scholten, and Paul JM Havinga. "Complex human activity recognition using smartphone and wrist-worn motion sensors." Sensors 16, no. 4 (2016): 426.
