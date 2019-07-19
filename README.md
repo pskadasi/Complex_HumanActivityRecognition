@@ -13,3 +13,6 @@ resulted in a dataset of 390 (13 × 30) min.
 
 ## For Details on the dataset and info please refer : 
  - Shoaib, Muhammad, Stephan Bosch, Ozlem Durmaz Incel, Hans Scholten, and Paul JM Havinga. "Complex human activity recognition using smartphone and wrist-worn motion sensors." Sensors 16, no. 4 (2016): 426.
+ 
+## Dataset URL :
+[Link](https://www.utwente.nl/en/eemcs/ps/research/dataset/)
